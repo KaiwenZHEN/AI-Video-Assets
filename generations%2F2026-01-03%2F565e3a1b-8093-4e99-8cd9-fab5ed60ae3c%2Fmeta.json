@@ -1,0 +1,40 @@
+{
+  "prompt": {
+    "id": "5ddcbf8d-ad15-41a0-9544-f02b4851d2f8",
+    "coordinates": {
+      "layer": 2,
+      "version": 0
+    },
+    "prompt": "将冲浪的人影直接挪动到森林中，并且将森林中照射下的灯光改为红色。",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "duration": 0,
+    "fps": 0,
+    "starred": false,
+    "createdAt": 1767452882165,
+    "seed": 3975
+  },
+  "fragment": {
+    "id": "565e3a1b-8093-4e99-8cd9-fab5ed60ae3c",
+    "coordinates": {
+      "layer": 3,
+      "version": 0
+    },
+    "parentId": "5ddcbf8d-ad15-41a0-9544-f02b4851d2f8",
+    "promptId": "5ddcbf8d-ad15-41a0-9544-f02b4851d2f8",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "videoUrl": "",
+    "thumbnailUrl": "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/49c2025d8cac49caa90e5d8f16a436be_sample.jpeg",
+    "duration": 0,
+    "fps": 0,
+    "seed": 3975,
+    "model": "flux-2-pro",
+    "starred": false,
+    "createdAt": 1767452893561
+  },
+  "timestamp": 1767452911937,
+  "originalImageUrl": "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/49c2025d8cac49caa90e5d8f16a436be_sample.jpeg",
+  "referenceImages": [
+    "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/2eca4efdf3614033941416b71a7b19aa_sample.jpeg",
+    "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/5d695a20f5a840bca7d40c2863e08c9e_sample.jpeg"
+  ]
+}
