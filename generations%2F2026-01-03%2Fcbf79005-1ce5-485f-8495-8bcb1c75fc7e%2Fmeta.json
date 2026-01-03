@@ -1,0 +1,39 @@
+{
+  "prompt": {
+    "id": "d28b793d-21e7-406e-a8c0-22547fd26b9d",
+    "coordinates": {
+      "layer": 2,
+      "version": 2
+    },
+    "prompt": "将图片中的灯光改为红色",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "duration": 0,
+    "fps": 0,
+    "starred": false,
+    "createdAt": 1767452997090,
+    "seed": 5354
+  },
+  "fragment": {
+    "id": "cbf79005-1ce5-485f-8495-8bcb1c75fc7e",
+    "coordinates": {
+      "layer": 3,
+      "version": 2
+    },
+    "parentId": "d28b793d-21e7-406e-a8c0-22547fd26b9d",
+    "promptId": "d28b793d-21e7-406e-a8c0-22547fd26b9d",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "videoUrl": "",
+    "thumbnailUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/03/4793706be2394e6bac0ad8a27828fcf7_sample.jpeg",
+    "duration": 0,
+    "fps": 0,
+    "seed": 5354,
+    "model": "flux-2-pro",
+    "starred": false,
+    "createdAt": 1767453006790
+  },
+  "timestamp": 1767453018653,
+  "originalImageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/03/4793706be2394e6bac0ad8a27828fcf7_sample.jpeg",
+  "referenceImages": [
+    "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/2eca4efdf3614033941416b71a7b19aa_sample.jpeg"
+  ]
+}
