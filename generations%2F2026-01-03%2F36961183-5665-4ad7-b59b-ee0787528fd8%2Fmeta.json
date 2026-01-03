@@ -1,0 +1,33 @@
+{
+  "prompt": {
+    "id": "76ee6bef-d1df-4c18-8f15-63027f48fc1e",
+    "coordinates": {
+      "layer": 0,
+      "version": 5
+    },
+    "prompt": "Ancient forest with massive trees, ethereal fog, shafts of morning light, mystical atmosphere, fantasy landscape, photorealistic",
+    "starred": false,
+    "createdAt": 1767431888674,
+    "seed": 6663,
+    "width": 256,
+    "height": 256
+  },
+  "picture": {
+    "id": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "coordinates": {
+      "layer": 1,
+      "version": 1
+    },
+    "parentId": "76ee6bef-d1df-4c18-8f15-63027f48fc1e",
+    "promptId": "76ee6bef-d1df-4c18-8f15-63027f48fc1e",
+    "imageUrl": "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/2eca4efdf3614033941416b71a7b19aa_sample.jpeg",
+    "seed": 6663,
+    "model": "flux-2-pro",
+    "steps": 20,
+    "pinned": false,
+    "starred": false,
+    "createdAt": 1767431896987
+  },
+  "timestamp": 1767431903295,
+  "originalImageUrl": "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/2eca4efdf3614033941416b71a7b19aa_sample.jpeg"
+}
