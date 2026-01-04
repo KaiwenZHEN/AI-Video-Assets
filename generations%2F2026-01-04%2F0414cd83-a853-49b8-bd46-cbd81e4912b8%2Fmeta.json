@@ -1,0 +1,41 @@
+{
+  "prompt": {
+    "id": "68a79eed-0985-4d4e-827e-d2bbfaa6526e",
+    "coordinates": {
+      "layer": 2,
+      "version": 15
+    },
+    "prompt": "请你只把冲浪的人影移动到树林里，并且把树林里的光线改为绿色。",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "duration": 0,
+    "fps": 0,
+    "starred": false,
+    "createdAt": 1767515984925,
+    "seed": 6051
+  },
+  "fragment": {
+    "id": "0414cd83-a853-49b8-bd46-cbd81e4912b8",
+    "coordinates": {
+      "layer": 3,
+      "version": 12
+    },
+    "parentId": "68a79eed-0985-4d4e-827e-d2bbfaa6526e",
+    "promptId": "68a79eed-0985-4d4e-827e-d2bbfaa6526e",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "videoUrl": "",
+    "thumbnailUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/04/d80f4fd5bc884230b44087af330e0773_sample.jpeg",
+    "duration": 0,
+    "fps": 0,
+    "seed": 6051,
+    "model": "flux-2-pro",
+    "starred": false,
+    "pinned": false,
+    "createdAt": 1767515999367
+  },
+  "timestamp": 1767516008919,
+  "originalImageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/04/d80f4fd5bc884230b44087af330e0773_sample.jpeg",
+  "referenceImages": [
+    "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/2eca4efdf3614033941416b71a7b19aa_sample.jpeg",
+    "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/5d695a20f5a840bca7d40c2863e08c9e_sample.jpeg"
+  ]
+}
