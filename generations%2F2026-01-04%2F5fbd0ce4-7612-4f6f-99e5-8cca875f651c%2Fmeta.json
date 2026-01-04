@@ -1,0 +1,40 @@
+{
+  "prompt": {
+    "id": "87f47063-5a6b-40c0-8539-cf4fdcbef48c",
+    "coordinates": {
+      "layer": 2,
+      "version": 5
+    },
+    "prompt": "将场景中的光源效果改为红色",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "duration": 0,
+    "fps": 0,
+    "starred": false,
+    "createdAt": 1767498007914,
+    "seed": 4301
+  },
+  "fragment": {
+    "id": "5fbd0ce4-7612-4f6f-99e5-8cca875f651c",
+    "coordinates": {
+      "layer": 3,
+      "version": 5
+    },
+    "parentId": "87f47063-5a6b-40c0-8539-cf4fdcbef48c",
+    "promptId": "87f47063-5a6b-40c0-8539-cf4fdcbef48c",
+    "pictureId": "36961183-5665-4ad7-b59b-ee0787528fd8",
+    "videoUrl": "",
+    "thumbnailUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/04/356ddfe9d3cf487d971effd714e61a76_sample.jpeg",
+    "duration": 0,
+    "fps": 0,
+    "seed": 4301,
+    "model": "flux-2-pro",
+    "starred": false,
+    "pinned": false,
+    "createdAt": 1767498019518
+  },
+  "timestamp": 1767498028149,
+  "originalImageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/04/356ddfe9d3cf487d971effd714e61a76_sample.jpeg",
+  "referenceImages": [
+    "https://bfldeliveryscus.blob.core.windows.net/results/2026/01/03/2eca4efdf3614033941416b71a7b19aa_sample.jpeg"
+  ]
+}
