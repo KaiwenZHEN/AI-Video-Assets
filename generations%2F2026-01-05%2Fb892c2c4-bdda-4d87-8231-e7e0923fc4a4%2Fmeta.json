@@ -1,0 +1,33 @@
+{
+  "prompt": {
+    "id": "0c57569a-b427-4684-a821-a5ee14d2e873",
+    "coordinates": {
+      "layer": 0,
+      "version": 0
+    },
+    "prompt": "A lone surfer riding a golden sunset wave, cinematic, anamorphic bokeh, warm rim light, 35mm lens, rule-of-thirds, ultra-detailed, photorealistic",
+    "starred": false,
+    "createdAt": 1767581718897,
+    "seed": 2535,
+    "width": 256,
+    "height": 256
+  },
+  "picture": {
+    "id": "b892c2c4-bdda-4d87-8231-e7e0923fc4a4",
+    "coordinates": {
+      "layer": 1,
+      "version": 0
+    },
+    "parentId": "0c57569a-b427-4684-a821-a5ee14d2e873",
+    "promptId": "0c57569a-b427-4684-a821-a5ee14d2e873",
+    "imageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/05/5e15f587d9fb4ba7baec7e652cadbe2b_sample.jpeg",
+    "seed": 2535,
+    "model": "flux-2-pro",
+    "steps": 20,
+    "pinned": false,
+    "starred": false,
+    "createdAt": 1767581727846
+  },
+  "timestamp": 1767581735000,
+  "originalImageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/05/5e15f587d9fb4ba7baec7e652cadbe2b_sample.jpeg"
+}
