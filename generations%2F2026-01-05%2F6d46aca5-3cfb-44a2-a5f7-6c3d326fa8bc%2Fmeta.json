@@ -1,0 +1,33 @@
+{
+  "prompt": {
+    "id": "273b159d-ecd4-45b0-aa42-8c58a87f68b1",
+    "coordinates": {
+      "layer": 0,
+      "version": 1
+    },
+    "prompt": "Futuristic city skyline at night, neon lights, rain-slicked streets, cyberpunk aesthetic, moody atmosphere, 8K resolution",
+    "starred": false,
+    "createdAt": 1767581758103,
+    "seed": 9480,
+    "width": 256,
+    "height": 256
+  },
+  "picture": {
+    "id": "6d46aca5-3cfb-44a2-a5f7-6c3d326fa8bc",
+    "coordinates": {
+      "layer": 1,
+      "version": 1
+    },
+    "parentId": "273b159d-ecd4-45b0-aa42-8c58a87f68b1",
+    "promptId": "273b159d-ecd4-45b0-aa42-8c58a87f68b1",
+    "imageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/05/7d0706b8bd9e4a6b87ff77773d85f246_sample.jpeg",
+    "seed": 9480,
+    "model": "flux-2-pro",
+    "steps": 20,
+    "pinned": false,
+    "starred": false,
+    "createdAt": 1767581767864
+  },
+  "timestamp": 1767581775355,
+  "originalImageUrl": "https://bfldeliveryprodeu4.blob.core.windows.net/results/2026/01/05/7d0706b8bd9e4a6b87ff77773d85f246_sample.jpeg"
+}
