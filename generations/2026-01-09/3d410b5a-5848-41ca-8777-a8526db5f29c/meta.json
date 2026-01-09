@@ -1,0 +1,40 @@
+{
+  "prompt": {
+    "id": "57d0b9c9-b109-478d-a0f9-227a4732eb49",
+    "coordinates": {
+      "layer": 2,
+      "version": 0
+    },
+    "prompt": "make it more clear",
+    "pictureId": "747e8cd9-80dd-4579-a0cb-5f75c3fc1bef",
+    "duration": 0,
+    "fps": 0,
+    "starred": false,
+    "createdAt": 1767937117579,
+    "seed": 2965
+  },
+  "fragment": {
+    "id": "3d410b5a-5848-41ca-8777-a8526db5f29c",
+    "coordinates": {
+      "layer": 3,
+      "version": 0
+    },
+    "parentId": "57d0b9c9-b109-478d-a0f9-227a4732eb49",
+    "promptId": "57d0b9c9-b109-478d-a0f9-227a4732eb49",
+    "pictureId": "747e8cd9-80dd-4579-a0cb-5f75c3fc1bef",
+    "videoUrl": "",
+    "thumbnailUrl": "https://images.unsplash.com/photo-1682687218147-9806132dc697",
+    "duration": 0,
+    "fps": 0,
+    "seed": 8708,
+    "model": "flux-2-pro",
+    "starred": false,
+    "pinned": false,
+    "createdAt": 1767937118780
+  },
+  "timestamp": 1767937121321,
+  "originalImageUrl": "https://images.unsplash.com/photo-1682687218147-9806132dc697",
+  "referenceImages": [
+    "https://images.unsplash.com/photo-1682687221080-5cb261c645cb"
+  ]
+}
