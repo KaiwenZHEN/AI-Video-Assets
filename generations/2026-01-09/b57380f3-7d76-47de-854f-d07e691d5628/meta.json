@@ -1,0 +1,33 @@
+{
+  "prompt": {
+    "id": "bbed29fd-7a91-444a-8ee1-d6d10e1d7eda",
+    "coordinates": {
+      "layer": 0,
+      "version": 8
+    },
+    "prompt": "a young chinese girl, on the road of california, in the center. one hand upward, showing freedom at morning,\n",
+    "starred": false,
+    "createdAt": 1767936783868,
+    "seed": 6225,
+    "width": 256,
+    "height": 256
+  },
+  "picture": {
+    "id": "b57380f3-7d76-47de-854f-d07e691d5628",
+    "coordinates": {
+      "layer": 1,
+      "version": 8
+    },
+    "parentId": "bbed29fd-7a91-444a-8ee1-d6d10e1d7eda",
+    "promptId": "bbed29fd-7a91-444a-8ee1-d6d10e1d7eda",
+    "imageUrl": "https://images.unsplash.com/photo-1682687221038-404cb8830901",
+    "seed": 3268,
+    "model": "stable-diffusion-xl",
+    "steps": 20,
+    "pinned": false,
+    "starred": false,
+    "createdAt": 1767936784671
+  },
+  "timestamp": 1767936787067,
+  "originalImageUrl": "https://images.unsplash.com/photo-1682687221038-404cb8830901"
+}
