@@ -1,0 +1,33 @@
+{
+  "prompt": {
+    "id": "e2fb7bae-46a3-4b2c-8e46-c211ec2b55cf",
+    "coordinates": {
+      "layer": 0,
+      "version": 2
+    },
+    "prompt": "a young chinese girl, on the road of california, in the center. one hand upward, showing freedom at mornin",
+    "starred": false,
+    "createdAt": 1767936128208,
+    "seed": 5661,
+    "width": 256,
+    "height": 256
+  },
+  "picture": {
+    "id": "36bf62ca-5f1d-4f9f-af3f-0662f1c3f672",
+    "coordinates": {
+      "layer": 1,
+      "version": 2
+    },
+    "parentId": "e2fb7bae-46a3-4b2c-8e46-c211ec2b55cf",
+    "promptId": "e2fb7bae-46a3-4b2c-8e46-c211ec2b55cf",
+    "imageUrl": "https://images.unsplash.com/photo-1682687220063-4742bd7fd538",
+    "seed": 9468,
+    "model": "stable-diffusion-xl",
+    "steps": 20,
+    "pinned": false,
+    "starred": false,
+    "createdAt": 1767936129010
+  },
+  "timestamp": 1767936132404,
+  "originalImageUrl": "https://images.unsplash.com/photo-1682687220063-4742bd7fd538"
+}
