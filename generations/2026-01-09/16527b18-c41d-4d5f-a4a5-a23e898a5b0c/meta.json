@@ -1,0 +1,33 @@
+{
+  "prompt": {
+    "id": "9818b92f-9c8a-4a19-86f3-b8a29150ac30",
+    "coordinates": {
+      "layer": 0,
+      "version": 1
+    },
+    "prompt": "A lone surfer riding a golden sunset wave, cinematic, anamorphic bokeh, warm rim light, 35mm lens, rule-of-thirds, ultra-detailed, photorealistic",
+    "starred": false,
+    "createdAt": 1767935977355,
+    "seed": 5696,
+    "width": 256,
+    "height": 256
+  },
+  "picture": {
+    "id": "16527b18-c41d-4d5f-a4a5-a23e898a5b0c",
+    "coordinates": {
+      "layer": 1,
+      "version": 1
+    },
+    "parentId": "9818b92f-9c8a-4a19-86f3-b8a29150ac30",
+    "promptId": "9818b92f-9c8a-4a19-86f3-b8a29150ac30",
+    "imageUrl": "https://images.unsplash.com/photo-1682687221038-404cb8830901",
+    "seed": 6713,
+    "model": "stable-diffusion-xl",
+    "steps": 20,
+    "pinned": false,
+    "starred": false,
+    "createdAt": 1767935978156
+  },
+  "timestamp": 1767935981203,
+  "originalImageUrl": "https://images.unsplash.com/photo-1682687221038-404cb8830901"
+}
